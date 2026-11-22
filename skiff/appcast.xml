@@ -3,6 +3,15 @@
     <channel>
         <title>Skiff</title>
         <item>
+            <title>0.5.59</title>
+            <pubDate>Sun, 22 Nov 2026 13:50:51 -0600</pubDate>
+            <sparkle:version>2026111934</sparkle:version>
+            <sparkle:shortVersionString>0.5.59</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.59/Skiff-2026111934.zip" length="870267678" type="application/octet-stream" sparkle:edSignature="8iGycvu0fZxkvVXd0yG0vKzVSg03gFT1cD+xZgocxI5unyuMFBSUWYpfO+yD1878ItLcTHQ5CAwzUWEGwWhIDw=="/>
+        </item>
+        <item>
             <title>0.5.58</title>
             <pubDate>Sun, 22 Nov 2026 11:43:01 -0600</pubDate>
             <sparkle:version>2026111933</sparkle:version>
