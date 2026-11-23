@@ -3,6 +3,18 @@
     <channel>
         <title>Skiff</title>
         <item>
+            <title>0.5.65</title>
+            <pubDate>Mon, 23 Nov 2026 16:05:58 -0600</pubDate>
+            <sparkle:version>2026111940</sparkle:version>
+            <sparkle:shortVersionString>0.5.65</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.65/Skiff-2026111940.zip" length="870416721" type="application/octet-stream" sparkle:edSignature="iMX4pi4YtQo8ps/vu87TkArheIPdykPhrkpmQ8qlUv9AjmE00I463CFLK1/kFblXkmqfWiijZNL4lMy3Oe0yCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.65/Skiff2026111940-2026111939.delta" sparkle:deltaFrom="2026111939" length="208158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0YbXIq37gLbLnSAHENHJLGV2nrd3egZBQr5gnhha6HgyGhlbfsp/ptYCKlWQID70VmhCIF7A5xcuon5HlZYKBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.64</title>
             <pubDate>Mon, 23 Nov 2026 12:28:27 -0600</pubDate>
             <sparkle:version>2026111939</sparkle:version>
