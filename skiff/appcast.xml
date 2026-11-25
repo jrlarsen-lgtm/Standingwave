@@ -10,6 +10,9 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.69/Skiff-2026111944.zip" length="870439195" type="application/octet-stream" sparkle:edSignature="Alp+PMUSSqS95yLEaG3RmvXLPTJw0s+BGmZTrxvwO5wCnDX+a/msaYjTLgdfNGMaUNtSuSdKTTpTpZ2HT+LJBg==" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.69/Skiff2026111944-2026111943.delta" sparkle:deltaFrom="2026111943" length="283778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yvYwThru2W1LoK89ZEAM4jwUF9ttF1QEDUfR/bugnoeKl16D6DXeAYJfKehNeI1UK1AZ2ligYQPagEfXmepOAw=="/>
+            </sparkle:deltas>
         </item>
     <item>
             <title>0.5.68</title>
