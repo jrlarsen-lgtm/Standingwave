@@ -3,6 +3,20 @@
     <channel>
         <title>Skiff</title>
         <item>
+            <title>0.5.72</title>
+            <pubDate>Wed, 25 Nov 2026 20:09:54 -0600</pubDate>
+            <sparkle:version>2026111947</sparkle:version>
+            <sparkle:shortVersionString>0.5.72</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.72/Skiff-2026111947.zip" length="870622217" type="application/octet-stream" sparkle:edSignature="huz0a6tSpChisWse5JZ/A1vA/WWjU7XzuH/CRDI34sknsmOAJnkAwG5OW6NVEmcHhu7B6S+ZHdAhGb/ng3pyCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.72/Skiff2026111947-2026111946.delta" sparkle:deltaFrom="2026111946" length="318814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gH/kJJjuISALC2Lj5Lkn5OXFwH7uMJlV1NAq9048OdlqXtQvRCSeq/wpUgmWMVuyoMmsiHFcRphMk4KmdiYUBA=="/>
+                <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.72/Skiff2026111947-2026111945.delta" sparkle:deltaFrom="2026111945" length="524078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0rukIgDSbnJUM1c6q0Syf/uw1v8HbjtbURWw61Mo5RCxVbZIi34Rcliw3nbPDrqkv8pMi1FRt7gXpPX6JayeCQ=="/>
+                <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.72/Skiff2026111947-2026111944.delta" sparkle:deltaFrom="2026111944" length="587306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1XQLhl/6PNdp4ZgHoryclWKbWvVEsb4YUNanLrCU4xRIJtn1EQm5kRlN+sflFdE/iwxQ0uDVP4jHK5miWMUnDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.71</title>
             <pubDate>Wed, 25 Nov 2026 08:27:51 -0600</pubDate>
             <sparkle:version>2026111946</sparkle:version>
