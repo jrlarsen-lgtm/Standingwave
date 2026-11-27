@@ -3,6 +3,19 @@
     <channel>
         <title>Skiff</title>
         <item>
+            <title>0.5.83</title>
+            <pubDate>Fri, 27 Nov 2026 15:03:28 -0600</pubDate>
+            <sparkle:version>2026111958</sparkle:version>
+            <sparkle:shortVersionString>0.5.83</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.83/Skiff-2026111958.zip" length="73045502" type="application/octet-stream" sparkle:edSignature="9yIDTBrEGQEhGOphO8IeZCKWxMELiBXg94nsRUoFSvuO1iEENwcYWqy6RSjpGmI4wdcAE78Ro0FyZ5qtBQYjBw==" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.83/Skiff2026111958-2026111956.delta" sparkle:deltaFrom="2026111956" length="485262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WMc7QxkGWStrMLw4Sl2vtOb6gxNy+CNudHYwW4nHpD7N7xEK/DE5qEv8l1Bf3LCedh8QwkS58tpQ1C6R4PzuCw==" />
+                <enclosure url="https://github.com/jrlarsen-lgtm/Standingwave/releases/download/skiff-0.5.83/Skiff2026111958-2026111955.delta" sparkle:deltaFrom="2026111955" length="532178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cPb9UdbTeD4sjU4OSyFxcpNXptXulY5mAZqoLPNuhNTZFdTbnoilrv7RMdKJjZX8M4ia0F28DHfahFVtnbqRDQ==" />
+            </sparkle:deltas>
+        </item>
+    <item>
             <title>0.5.81</title>
             <pubDate>Fri, 27 Nov 2026 11:35:38 -0600</pubDate>
             <sparkle:version>2026111956</sparkle:version>
